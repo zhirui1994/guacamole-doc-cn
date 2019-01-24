@@ -1,6 +1,0 @@
-org.apache.guacamole
-org.apache.guacamole.io
-org.apache.guacamole.net
-org.apache.guacamole.protocol
-org.apache.guacamole.servlet
-org.apache.guacamole.websocket
