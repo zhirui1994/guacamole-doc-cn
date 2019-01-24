@@ -65,3 +65,5 @@ defaults:
     - scope:  { type: releases }
       values: { layout: release }
 
+
+theme: jekyll-theme-cayman
